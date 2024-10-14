@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TestMailApplication<testMail>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.reactMail.testMail.TestMailApplication",
+            "projectName": "testMail",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
